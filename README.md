@@ -35,14 +35,6 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 
 <hr>
 
-📊 Estatísticas
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Handlovics&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Handlovics&layout=compact&theme=tokyonight)
-
-<hr>
-
 📫 Conecte-se comigo
 
 - 💼 LinkedIn: https://www.linkedin.com/in/henriquehandlovics/
